@@ -1,0 +1,6 @@
+{
+    "redis_server": "x.x.x.x",
+    "redis_port": "xxxx",
+    "cpuquotaservice":"http://s.xxxx.cloudandheat.com:8998", 
+    "cputhreshold": "80"
+}
