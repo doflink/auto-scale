@@ -3,7 +3,7 @@ Auto-scaling mechanism for applications deployed on Open-Stack based cloud (Clou
 
 ###What is this repository for? ###
 * Auto-scaling mechanism for LEADS project.
-* [Wiki](http://www.leads-project.eu/wiki/)
+* [Wiki](https://github.com/leads-project/auto-scale/wiki)
 
 ### How to run? ###
 * Deploy UniMon to monitor all VMs on clouds
