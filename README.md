@@ -1,5 +1,5 @@
-# Vertical scaling service 
-Auto-scaling mechanism for applications deployed on Open-Stack based cloud (Cloud&Heat)
+# Scaling mechanism for Open-Stack
+Auto-scaling mechanism for applications deployed on Open-Stack based cloud
 
 ###What is this repository for? ###
 * Auto-scaling mechanism for LEADS project.
