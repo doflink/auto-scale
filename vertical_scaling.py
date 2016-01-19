@@ -7,7 +7,7 @@ import logging
 import socket
 import json
 from os.path import expanduser
-from cloudandheat import *
+from infrastructure import *
 import urllib2
 import subprocess
 from random import randint

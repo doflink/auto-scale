@@ -11,7 +11,7 @@ from os.path import expanduser
 
 from subprocess import call
 
-configfile = 'cloudheat.auth'
+configfile = 'infrastructure.auth'
 
 class VirtualMachine:
     def __init__(self):
