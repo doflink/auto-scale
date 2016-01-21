@@ -13,7 +13,7 @@ Auto-scaling mechanism for applications deployed on Open-Stack-based cloud
 * Deploy [UniMon](https://github.com/leads-project/unimon) to monitor all VMs on clouds
 * Run `$python vertical_scaling.py`
 
-# Contact? #
-* Do Quoc Le (SE Group TU Dresden): do@se.inf.tu-dresden.de 
+# Contact #
+* Do Le Quoc (SE Group TU Dresden): do@se.inf.tu-dresden.de 
 
 
