@@ -1,9 +1,9 @@
 {
  "MicroCloud0":{
-     "username": "do@se.inf.tu-dresden.de",
-     "password": "xxxxxx",
-     "tenant": "tudLEADS",
-     "url": "https://dashboard-hamm1.cloudandheat.com:5000/v2.0"
+     "username": "user",
+     "password": "pwd",
+     "tenant": "tenant",
+     "url": "https://openstack-endpoint:5000/v2.0"
      }
 
 }
