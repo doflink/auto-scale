@@ -11,7 +11,7 @@ Auto-scaling mechanism for applications deployed on Open-Stack-based cloud
 * Run $python vertical_scaling.py
 
 ### Dependencies ###
-* Python 2.x with novaclient.v1_1, redis, shutil package
+* Python 2.x with ($ pip install python-novaclient 2.10.0 redis)
 
 ### Contact? ###
 * Do Quoc Le (SE Group TU Dresden): do@se.inf.tu-dresden.de 
