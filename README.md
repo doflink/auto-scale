@@ -5,7 +5,7 @@ Auto-scaling mechanism for applications deployed on Open-Stack-based cloud
 
 # Dependencies #
 * Python 2.x with ($ pip install python-novaclient==2.10.0 redis==2.10.5)
-* OpenStack havanna installation or newer
+* OpenStack Havana installation or newer
 
 # Configuration #
 * Adjust the parameters in `setting.json` (where the redis server for Unimon is running) and authentication (of your openstack infrastructure) in infrastructure.auth
